@@ -44,9 +44,9 @@ linux-enterprise-project/ \
 - Force password change on first login  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task1_Sys_Prep/force_pass_change.png`  
-`linux_task_output/task1_Sys_Prep/groups_user_id.png`  
-`linux_task_output/task1_Sys_Prep/hostname_static_ip.png`
+![Force Password Change](linux_task_output/task1_Sys_Prep/force_pass_change.png)  
+![Groups and User IDs](linux_task_output/task1_Sys_Prep/groups_user_id.png)  
+![Hostname and Static IP](linux_task_output/task1_Sys_Prep/hostname_static_ip.png)
 
 ---
 
@@ -60,11 +60,11 @@ linux-enterprise-project/ \
 - Set sticky bit on `/srv/public_temp`  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task2_Dir_Perm_setup/making_Dirs.png`  
-`linux_task_output/task2_Dir_Perm_setup/getfacl_dev.png`  
-`linux_task_output/task2_Dir_Perm_setup/getfacl_hr.png`  
-`linux_task_output/task2_Dir_Perm_setup/getfacl_it.png`  
-`linux_task_output/task2_Dir_Perm_setup/getfacl_sales.png`
+![Making Directories](linux_task_output/task2_Dir_Perm_setup/making_Dirs.png)  
+![getfacl - dev](linux_task_output/task2_Dir_Perm_setup/getfacl_dev.png)  
+![getfacl - hr](linux_task_output/task2_Dir_Perm_setup/getfacl_hr.png)  
+![getfacl - it](linux_task_output/task2_Dir_Perm_setup/getfacl_it.png)  
+![getfacl - sales](linux_task_output/task2_Dir_Perm_setup/getfacl_sales.png)
 
 ---
 
@@ -76,10 +76,10 @@ linux-enterprise-project/ \
 - Applied disk quotas (100 MB soft / 150 MB hard) to HR & Sales  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task3_Storage_LVM_setup/pvs_vgs_lvs.png`  
-`linux_task_output/task3_Storage_LVM_setup/show_mount.png`  
-`linux_task_output/task3_Storage_LVM_setup/fstab_file.png`  
-`linux_task_output/task3_Storage_LVM_setup/set_quota.png`
+![LVM Creation](linux_task_output/task3_Storage_LVM_setup/pvs_vgs_lvs.png)  
+![Mounted Volumes](linux_task_output/task3_Storage_LVM_setup/show_mount.png)  
+![fstab File](linux_task_output/task3_Storage_LVM_setup/fstab_file.png)  
+![Set Quota](linux_task_output/task3_Storage_LVM_setup/set_quota.png)
 
 ---
 
@@ -94,10 +94,10 @@ linux-enterprise-project/ \
 - FirewallD: Allowed `SSH`, `HTTP`, and `ping`  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task4_Sec_Hardening/sudo_frank.png`  
-`linux_task_output/task4_Sec_Hardening/allow_it_disable_root.png`  
-`linux_task_output/task4_Sec_Hardening/sshkeygrn_frank.png`  
-`linux_task_output/task4_Sec_Hardening/set_firewall.png`
+![Sudo for Frank](linux_task_output/task4_Sec_Hardening/sudo_frank.png)  
+![Allow IT Team, Disable Root](linux_task_output/task4_Sec_Hardening/allow_it_disable_root.png)  
+![Frank SSH Key](linux_task_output/task4_Sec_Hardening/sshkeygrn_frank.png)  
+![Set Firewall](linux_task_output/task4_Sec_Hardening/set_firewall.png)
 
 ---
 
@@ -109,11 +109,11 @@ linux-enterprise-project/ \
 - Verified from browser: [http://192.168.100.10]  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task5_Web_portal/systemctl_httpd.png`  
-`linux_task_output/task5_Web_portal/machine_ip.png`  
-`linux_task_output/task5_Web_portal/show_hosting.png`  
-`linux_task_output/task5_Web_portal/change_document.png`  
-`linux_task_output/task5_Web_portal/added_ip.png`
+![Apache Service](linux_task_output/task5_Web_portal/systemctl_httpd.png)  
+![Machine IP](linux_task_output/task5_Web_portal/machine_ip.png)  
+![Web Hosting Verification](linux_task_output/task5_Web_portal/show_hosting.png)  
+![Change Document Root](linux_task_output/task5_Web_portal/change_document.png)  
+![Added IP to DNS](linux_task_output/task5_Web_portal/added_ip.png)
 
 ---
 
@@ -124,9 +124,9 @@ linux-enterprise-project/ \
 - `at` job broadcasts save reminder at 17:00  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task6_Cron_Logs/backup_script.png`  
-`linux_task_output/task6_Cron_Logs/cron_at.png`  
-`linux_task_output/task6_Cron_Logs/words_atq.png`
+![Backup Script](linux_task_output/task6_Cron_Logs/backup_script.png)  
+![Cron and At Jobs](linux_task_output/task6_Cron_Logs/cron_at.png)  
+![atq Output](linux_task_output/task6_Cron_Logs/words_atq.png)
 
 ---
 
@@ -137,11 +137,11 @@ linux-enterprise-project/ \
 - Verified backup logs in `/var/log/messages`  
 
 🖼️ *Screenshot Placeholder:*  
-`linux_task_output/task7_troubleshooting/bob_ssh.png`  
-`linux_task_output/task7_troubleshooting/bob_try_logs.png`  
-`linux_task_output/task7_troubleshooting/fstab_mistake.png`  
-`linux_task_output/task7_troubleshooting/fstab_fix.png`  
-`linux_task_output/task7_troubleshooting/show_success_backup.png`
+![Bob SSH Attempt](linux_task_output/task7_troubleshooting/bob_ssh.png)  
+![Bob Try Logs](linux_task_output/task7_troubleshooting/bob_try_logs.png)  
+![fstab Mistake](linux_task_output/task7_troubleshooting/fstab_mistake.png)  
+![fstab Fix](linux_task_output/task7_troubleshooting/fstab_fix.png)  
+![Backup Success](linux_task_output/task7_troubleshooting/show_success_backup.png)
 
 ---
 
