@@ -156,4 +156,13 @@ linux_task_output/ \
 ├── task5_Web_portal/ \
 ├── task6_Cron_Logs/ \
 └── task7_troubleshooting/ \
-`Linux` `System Administration` `Bash Scripting` `Security` `LVM` `DNS` `Apache` `SELinux` `Rocky Linux` `Automation`
+[Linux](https://github.com/search?q=Linux)
+[System Administration](https://github.com/search?q=System+Administration)
+[Bash Scripting](https://github.com/search?q=Bash+Scripting)
+[Security](https://github.com/search?q=Security)
+[LVM](https://github.com/search?q=LVM)
+[DNS](https://github.com/search?q=DNS)
+[Apache](https://github.com/search?q=Apache)
+[SELinux](https://github.com/search?q=SELinux)
+[Rocky Linux](https://github.com/search?q=Rocky+Linux)
+[Automation](https://github.com/search?q=Automation)
