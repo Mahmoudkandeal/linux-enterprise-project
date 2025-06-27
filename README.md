@@ -142,20 +142,8 @@ linux-enterprise-project/ \
 ![fstab Mistake](linux_task_output/task7_troubleshooting/fstab_mistake.png)  
 ![fstab Fix](linux_task_output/task7_troubleshooting/fstab_fix.png)  
 ![Backup Success](linux_task_output/task7_troubleshooting/show_success_backup.png)
-
 ---
 
-## 📸 Screenshots Folder Convention
-
-All screenshots are organized under `linux_task_output/`, with a subfolder per task.  
-linux_task_output/ \
-├── task1_Sys_Prep/ \
-├── task2_Dir_Perm_setup/ \
-├── task3_Storage_LVM_setup/ \
-├── task4_Sec_Hardening/ \
-├── task5_Web_portal/ \
-├── task6_Cron_Logs/ \
-└── task7_troubleshooting/ \
 [Linux](https://github.com/search?q=Linux)
 [System Administration](https://github.com/search?q=System+Administration)
 [Bash Scripting](https://github.com/search?q=Bash+Scripting)
